@@ -7,7 +7,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/d28f67acb582d5705333/maintainability)](https://codeclimate.com/github/bylapidist/template-typescript-library/maintainability)
 [![Node](https://img.shields.io/node/v/@lapidist/template-typescript-library)](https://www.npmjs.com/package/@lapidist/components)
 [![GitHub Issues](https://img.shields.io/github/issues/bylapidist/template-typescript-library.svg?style=flat)](https://github.com/bylapidist/template-typescript-library/issues)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=bylapidist/template-typescript-library)](https://dependabot.com)
 ![GitHub](https://img.shields.io/github/license/bylapidist/template-typescript-library)
 [![GitHub Release](https://img.shields.io/github/release/bylapidist/template-typescript-library.svg?style=flat)](https://github.com/bylapidist/template-typescript-library/releases)
 [![Build Status](https://github.com/bylapidist/template-typescript-library/workflows/Release/badge.svg)](https://github.com/bylapidist/template-typescript-library/actions?query=workflow%3ARelease)
