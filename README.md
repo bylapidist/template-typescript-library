@@ -11,11 +11,5 @@
 [![GitHub Release](https://img.shields.io/github/release/bylapidist/template-typescript-library.svg?style=flat)](https://github.com/bylapidist/template-typescript-library/releases)
 [![Build Status](https://github.com/bylapidist/template-typescript-library/workflows/Release/badge.svg)](https://github.com/bylapidist/template-typescript-library/actions?query=workflow%3ARelease)
 
-## Getting Started
-
-`@lapidist/template-typescript-library` is available as an [npm package](https://www.npmjs.com/package/@lapidist/template-typescript-library).
-
-See [https://components.lapidist.net](https://components.lapidist.net) for the full documentation.
-
 ## License
 `@lapidist/template-typescript-library` is licensed under the MIT license. See LICENSE for the full text.
