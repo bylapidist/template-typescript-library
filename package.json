@@ -47,15 +47,8 @@
         "typescript": "4.3.5"
     },
     "engines": {
-        "node": ">=12.0.0"
+        "node": ">=14.0.0"
     },
-    "browserslist": [
-        "> 0.55%",
-        "not IE 11",
-        "not IE_Mob 11",
-        "not Op_Mini all",
-        "not Safari < 12"
-    ],
     "husky": {
         "hooks": {
             "pre-commit": "tsc --noEmit && lint-staged"
