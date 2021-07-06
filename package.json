@@ -39,7 +39,7 @@
         "@lapidist/linting": "2.114.1",
         "@types/jest": "26.0.23",
         "cross-env": "7.0.3",
-        "husky": "4.3.8",
+        "husky": "7.0.1",
         "jest": "26.6.3",
         "lint-staged": "10.5.4",
         "rimraf": "3.0.2",
