@@ -18,7 +18,7 @@ export const add = (a: number, b: number): number => a + b;
  * Add many numbers
  *
  * See:
- * {@link addAll}
+ * {@link add}
  *
  * ```typescript
  * const sum: number = addAll(1, 2, 3, 4);
