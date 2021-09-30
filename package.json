@@ -37,7 +37,7 @@
     },
     "dependencies": {},
     "devDependencies": {
-        "@lapidist/linting": "2.117.3",
+        "@lapidist/linting": "2.117.4",
         "@types/jest": "27.0.2",
         "cross-env": "7.0.3",
         "husky": "7.0.2",
